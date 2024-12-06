@@ -137,8 +137,8 @@ def upload_to_s3(file_path, s3_key):
 ### **Encryption success**  
 ![Encryption success](https://github.com/user-attachments/assets/312d67db-92e1-4a32-aebe-c179e54f0a63)
   
-### **Loges Window**  
-![Loges Window](https://github.com/user-attachments/assets/1453fd85-83cc-42d7-9de3-833a8c0226cf)
+### **Logs Window**  
+![Logs Window](https://github.com/user-attachments/assets/1453fd85-83cc-42d7-9de3-833a8c0226cf)
 
 ---
 
